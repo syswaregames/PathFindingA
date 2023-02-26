@@ -1,2 +1,2 @@
-# PathFindingA-
+# PathFinding A*
 A* PathFinding Algorithm
